@@ -1,0 +1,30 @@
+# Site settings
+title: Tiffany R. Ragsdale
+email: tiffanyrragsdale@gmail.com
+description: "Digital Portfolio of a Freelance Writer and Inbound Marketing Enthusiast"
+
+
+# Team names, titles and social links
+people:
+
+- name: Tiffany Ragsdale
+  pic: 2
+  position: Freelance Writer and Inbound Marketing Consultant
+  social:
+    - title: twitter
+      url: https://twitter.com/TiffRRagsdale
+    - title: linkedin
+      url: https://www.linkedin.com/in/tiffany-r-ragsdale/
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/TiffRRagsdale
+  - title: linkedin
+    url: https://www.linkedin.com/in/tiffany-r-ragsdale/
+
+# Postal address (add as many lines as necessary)
+
+# Build settings
+markdown: kramdown
+permalink: pretty
